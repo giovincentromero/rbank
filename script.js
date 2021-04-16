@@ -1,0 +1,1 @@
+function stoppedTyping(){"voQqam-jypjeb-6myhde"===myText.value?document.getElementById("download_button").disabled=!1:document.getElementById("download_button").disabled=!0}
